@@ -1,0 +1,6 @@
+1.0_StageIn.sh
+9_StageOut.sh
+jobsum
+/data
+/gatk
+/other_scripts

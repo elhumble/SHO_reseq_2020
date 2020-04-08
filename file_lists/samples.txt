@@ -1,0 +1,6 @@
+G445	G445_R1.fastq.gz	G445_R2.fastq.gz
+G449	G449_R1.fastq.gz	G449_R2.fastq.gz
+MSH005	MSH005_R1.fastq.gz	MSH005_R2.fastq.gz
+MSH009	MSH009_R1.fastq.gz	MSH009_R2.fastq.gz
+MSH638	MSH638_R1.fastq.gz	MSH638_R2.fastq.gz
+MSH645	MSH645_R1.fastq.gz	MSH645_R2.fastq.gz
