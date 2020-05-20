@@ -2,6 +2,8 @@
 
 [Emily Humble](http:/elhumble.github.io/), Pavel Dobrynin, Helen Senn, Justin Chuven, Alan F Scott, David W Mohr, Olga Dudchenko, Arina D Omer, Zane Colaric, Erez Lieberman Aiden, David Wildt, Shireen Oliaji, Gail Tamazian, Budhan Pukazhenthi, Rob Ogden, Klaus-Peter Koepfli
 
+###### Manuscript available [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13181)
+
 **Summary**
 -------------
 This repository contains the scripts used for aligning reads and calling SNPs for resequenced individuals, assembling mitogenomes, running ANGSD and running PSMC.
