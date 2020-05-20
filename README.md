@@ -6,7 +6,7 @@
 
 **Summary**
 -------------
-This repository contains the scripts used for aligning reads and calling SNPs for resequenced individuals, assembling mitogenomes, running ANGSD and running PSMC.
+This repository contains the scripts used for aligning reads and calling SNPs for resequenced individuals, assembling mitogenomes, running ANGSD, running MaCS and running PSMC.
 
 For subsequent analyses described in the paper, please see github repository [SHO_analysis_2020.](https://github.com/elhumble/SHO_analysis_2020)
 
